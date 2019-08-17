@@ -1,0 +1,6 @@
+framework module LZJLogin {
+  umbrella header "LZJLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
